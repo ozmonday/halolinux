@@ -1,5 +1,4 @@
 # Table of contents
 
-* [Halo Linux](README.md)
-* [Kernel Space](kernel-space.md)
+* [Kernel Space](README.md)
 * [User Space](user-space.md)
